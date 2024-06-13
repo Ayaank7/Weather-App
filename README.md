@@ -43,10 +43,10 @@ The application is built using Java Servlets and JSP for backend logic and dynam
 ```
 weather-app/
 ├── images/                 # Directory for images used in the application
-│   └── Clouds.png          # Sample image file (replace with actual images)
+│   └── Clouds.png          # clouds image file 
 ├── WEB-INF/
 │   ├── lib/               # Directory for libraries and dependencies
-│   │   └── gson-2.8.5.jar  # Sample library file (replace with actual libraries)
+│   │   └── gson-2.8.5.jar  # gson library file
 │   └── web.xml            # Servlet configuration file
 ├── index.jsp              # JSP file for displaying weather information
 ├── MyServlet.java         # Servlet code for handling API requests
@@ -57,6 +57,8 @@ weather-app/
 ```
 
 ## Screenshots
+<img src="https://github.com/Ayaank7/Weather-App/assets/142133833/97d8a363-f0d3-480d-8563-26d31bc53990" alt="Screenshot 1" width="600">
+<img src="https://github.com/Ayaank7/Weather-App/assets/142133833/926accce-cd0a-44d2-800a-8f24e4fc087b" alt="Screenshot 2" width="600">
 
 ## Author
 - [Ayaan Khan](https://www.linkedin.com/in/ayaan-khan-9a0a711b0/)
